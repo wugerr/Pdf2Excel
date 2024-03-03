@@ -12,19 +12,19 @@
 
 ## 依融包
 
--pdfplumber
+- pdfplumber
 pdfplumber库是一个用于从PDF文档中提取文本和表格数据的Python库。它可以帮助用户轻松地从PDF文件中提取有用的信息，例如表格、文本、元数据等。pdfplumber库的特点包括：简单易用、速度快、支持多种PDF文件格式、支持从多个页面中提取数据等。pdfplumber库还提供了一些方便的方法来处理提取的数据，例如排序、过滤和格式化等。它是一个非常有用的工具，特别是在需要从大量PDF文件中提取数据时。
 
 
--pandas
+- pandas
 Pandas是一个强大的分析结构化数据的工具集；它的使用基础是Numpy（提供高性能的矩阵运算）；用于数据挖掘和数据分析，同时也提供数据清洗功能。
 
 
--PyQt5
+- PyQt5
 Qt 库是世界上最强大的 GUI 库之一，跨平台，开发语言为 C++(https://www.qt.io). PyQt 是 QT 框架的 Python 语言实现，PyQt5 是用来创建 Python GUI 应用程序的工具包。作为一个跨平台的工具包，PyQt 可以在所有主流操作系统上运行（Unix，Windows，Mac）。
 
 
--用pyinstaller打包成exe还需要安装以下几个库：numpy, xlsxwriter, Jinja2, matplotlib
+- 用pyinstaller打包成exe还需要安装以下几个库：numpy, xlsxwriter, Jinja2, matplotlib
 
 
 ## 使用
